@@ -1,28 +1,19 @@
 <h1 align="center">Welcome to GoRestaurant Mobile🍲</h1>
 <p align="center">
-  <img alt="Capa" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/1.png" />
+  <img alt="Capa" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/1.png" />
 </p>
 
-<h1 align="center">
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/2.png" />
-</h1>
+<p align="center">
+  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/2.png" />
 
-<h1 align="center">
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/3.png" />
-</h1>
+  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/3.png" />
 
-<h1 align="center">
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/4.png" />
-</h1>
+  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/4.png" />
 
-<h1 align="center">
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/5.png" />
-</h1>
+  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/5.png" />
 
-<h1 align="center">
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/tree/master/assets/6.png" />
-</h1>
-
+  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/6.png" />
+</p>
 
 
 ---
