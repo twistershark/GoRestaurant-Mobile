@@ -6,13 +6,13 @@
 <p align="center">
   <img alt="goMarketplace" height="600" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/2.png" />
 
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/3.png" />
+  <img alt="goMarketplace" height="600" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/3.png" />
 
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/4.png" />
+  <img alt="goMarketplace" height="600" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/4.png" />
 
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/5.png" />
+  <img alt="goMarketplace" height="600" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/5.png" />
 
-  <img alt="goMarketplace" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/6.png" />
+  <img alt="goMarketplace" height="600" src="https://github.com/twistershark/GoRestaurant-Mobile/blob/master/assets/6.png" />
 </p>
 
 
