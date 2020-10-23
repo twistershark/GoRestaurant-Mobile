@@ -69,8 +69,11 @@ A simple food mobile app build with **React Native**. It was developed to practi
   # to start a fake api to list foods
   $ yarn json-server server.json -p 3333
 
-  # to start the React application
+  # to start the React Native Metro
   $ yarn start
+  
+  # to start the Android Emulator or iOS Simulator
+  $ yarn android / yarn ios
 
 ```
 
